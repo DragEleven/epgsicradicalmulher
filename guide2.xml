@@ -10,243 +10,6 @@
     <icon src="https://www.meo.pt/PublishingImages/canais/sic-mulher.png" />
     <url>http://www.meo.pt</url>
   </channel>
-  <programme start="20230727004600 +0100" stop="20230727011100 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Naked Attraction (Finland)</title>
-  </programme>
-  <programme start="20230727011100 +0100" stop="20230727013300 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Pawn Stars South Africa</title>
-  </programme>
-  <programme start="20230727013300 +0100" stop="20230727015500 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Pawn Stars South Africa</title>
-  </programme>
-  <programme start="20230727015500 +0100" stop="20230727024000 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Team Ninja Warrior</title>
-  </programme>
-  <programme start="20230727024000 +0100" stop="20230727034100 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Irritações</title>
-  </programme>
-  <programme start="20230727034100 +0100" stop="20230727035500 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Go's-TV Report</title>
-  </programme>
-  <programme start="20230727035500 +0100" stop="20230727040400 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Cinetendinha</title>
-  </programme>
-  <programme start="20230727040400 +0100" stop="20230727043500 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Advnce Show</title>
-  </programme>
-  <programme start="20230727043500 +0100" stop="20230727053700 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Irritações</title>
-  </programme>
-  <programme start="20230727053700 +0100" stop="20230727062200 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Curto Circuito</title>
-  </programme>
-  <programme start="20230727062200 +0100" stop="20230727071000 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Curto Circuito</title>
-  </programme>
-  <programme start="20230727071000 +0100" stop="20230727073400 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Boruto</title>
-  </programme>
-  <programme start="20230727073400 +0100" stop="20230727080000 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Boruto</title>
-  </programme>
-  <programme start="20230727080000 +0100" stop="20230727084200 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Late Late Show With James Corden</title>
-  </programme>
-  <programme start="20230727084200 +0100" stop="20230727085600 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Go's-TV Report</title>
-  </programme>
-  <programme start="20230727085600 +0100" stop="20230727093900 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Tonight Show With Jimmy Fallon</title>
-  </programme>
-  <programme start="20230727093900 +0100" stop="20230727102600 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Curto Circuito</title>
-  </programme>
-  <programme start="20230727102600 +0100" stop="20230727105200 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">SAS: Who Dares Wins Austrália</title>
-  </programme>
-  <programme start="20230727105200 +0100" stop="20230727114400 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">SAS: Who Dares Wins Austrália</title>
-  </programme>
-  <programme start="20230727114400 +0100" stop="20230727122600 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Love Island U.K.</title>
-  </programme>
-  <programme start="20230727122600 +0100" stop="20230727130900 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Love Island U.K.</title>
-  </programme>
-  <programme start="20230727130900 +0100" stop="20230727135200 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Team Ninja Warrior</title>
-  </programme>
-  <programme start="20230727135200 +0100" stop="20230727143700 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Team Ninja Warrior</title>
-  </programme>
-  <programme start="20230727143700 +0100" stop="20230727145900 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Pawn Stars South Africa</title>
-  </programme>
-  <programme start="20230727145900 +0100" stop="20230727152100 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Pawn Stars South Africa</title>
-  </programme>
-  <programme start="20230727152100 +0100" stop="20230727160600 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Team Ninja Warrior</title>
-  </programme>
-  <programme start="20230727160600 +0100" stop="20230727164600 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Tonight Show With Jimmy Fallon</title>
-  </programme>
-  <programme start="20230727164600 +0100" stop="20230727173000 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Love Island U.K.</title>
-  </programme>
-  <programme start="20230727173000 +0100" stop="20230727181200 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Love Island U.K.</title>
-  </programme>
-  <programme start="20230727181200 +0100" stop="20230727185200 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Love Island U.K.</title>
-  </programme>
-  <programme start="20230727185200 +0100" stop="20230727191800 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">SAS: Who Dares Wins Austrália</title>
-  </programme>
-  <programme start="20230727191800 +0100" stop="20230727201100 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">SAS: Who Dares Wins Austrália</title>
-  </programme>
-  <programme start="20230727201100 +0100" stop="20230727205400 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Team Ninja Warrior</title>
-  </programme>
-  <programme start="20230727205400 +0100" stop="20230727213800 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Team Ninja Warrior</title>
-  </programme>
-  <programme start="20230727213800 +0100" stop="20230727215900 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Pawn Stars South Africa</title>
-  </programme>
-  <programme start="20230727215900 +0100" stop="20230727222200 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Pawn Stars South Africa</title>
-  </programme>
-  <programme start="20230727222200 +0100" stop="20230727231200 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">SAS: Who Dares Wins Austrália</title>
-  </programme>
-  <programme start="20230727231200 +0100" stop="20230728000200 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">SAS: Who Dares Wins Austrália</title>
-  </programme>
-  <programme start="20230728000200 +0100" stop="20230728002500 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Naked Attraction (Finland)</title>
-  </programme>
-  <programme start="20230728002500 +0100" stop="20230728004800 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Naked Attraction (Finland)</title>
-  </programme>
-  <programme start="20230728004800 +0100" stop="20230728013300 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Pawn Stars South Africa</title>
-  </programme>
-  <programme start="20230728013300 +0100" stop="20230728015500 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Pawn Stars South Africa</title>
-  </programme>
-  <programme start="20230728015500 +0100" stop="20230728024600 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Espaço 1999</title>
-  </programme>
-  <programme start="20230728024600 +0100" stop="20230728034300 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Irritações</title>
-  </programme>
-  <programme start="20230728034300 +0100" stop="20230728043000 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Curto Circuito</title>
-  </programme>
-  <programme start="20230728043000 +0100" stop="20230728043900 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Cinetendinha</title>
-  </programme>
-  <programme start="20230728043900 +0100" stop="20230728050400 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Boa Cama Boa Mesa</title>
-  </programme>
-  <programme start="20230728050400 +0100" stop="20230728052200 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Volante</title>
-  </programme>
-  <programme start="20230728052200 +0100" stop="20230728060700 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Curto Circuito</title>
-  </programme>
-  <programme start="20230728060700 +0100" stop="20230728065200 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Curto Circuito</title>
-  </programme>
-  <programme start="20230728065200 +0100" stop="20230728071600 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Boruto</title>
-  </programme>
-  <programme start="20230728071600 +0100" stop="20230728074200 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Boruto</title>
-  </programme>
-  <programme start="20230728074200 +0100" stop="20230728082400 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Late Late Show With James Corden</title>
-  </programme>
-  <programme start="20230728082400 +0100" stop="20230728083900 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Volante</title>
-  </programme>
-  <programme start="20230728083900 +0100" stop="20230728094200 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Irritações</title>
-  </programme>
-  <programme start="20230728094200 +0100" stop="20230728103000 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Curto Circuito</title>
-  </programme>
-  <programme start="20230728103000 +0100" stop="20230728104500 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Volante</title>
-  </programme>
-  <programme start="20230728104500 +0100" stop="20230728105500 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Isso É Matemática</title>
-  </programme>
-  <programme start="20230728105500 +0100" stop="20230728114500 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">SAS: Who Dares Wins Austrália</title>
-  </programme>
-  <programme start="20230728114500 +0100" stop="20230728122800 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Love Island U.K.</title>
-  </programme>
-  <programme start="20230728122800 +0100" stop="20230728131100 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Love Island U.K.</title>
-  </programme>
-  <programme start="20230728131100 +0100" stop="20230728135300 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Team Ninja Warrior</title>
-  </programme>
-  <programme start="20230728135300 +0100" stop="20230728143800 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Team Ninja Warrior</title>
-  </programme>
-  <programme start="20230728143800 +0100" stop="20230728145900 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Pawn Stars South Africa</title>
-  </programme>
-  <programme start="20230728145900 +0100" stop="20230728152100 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Pawn Stars South Africa</title>
-  </programme>
-  <programme start="20230728152100 +0100" stop="20230728161600 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Lego Mastars Australia</title>
-  </programme>
-  <programme start="20230728161600 +0100" stop="20230728162900 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Exame Informática</title>
-  </programme>
-  <programme start="20230728162900 +0100" stop="20230728171600 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Curto Circuito</title>
-  </programme>
-  <programme start="20230728171600 +0100" stop="20230728175500 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Love Island U.K.</title>
-  </programme>
-  <programme start="20230728175500 +0100" stop="20230728184100 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Love Island U.K.</title>
-  </programme>
-  <programme start="20230728184100 +0100" stop="20230728185100 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Boa Cama Boa Mesa</title>
-  </programme>
-  <programme start="20230728185100 +0100" stop="20230728190700 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Volante</title>
-  </programme>
-  <programme start="20230728190700 +0100" stop="20230728191500 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Cinetendinha</title>
-  </programme>
-  <programme start="20230728191500 +0100" stop="20230728192800 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Isso É Matemática</title>
-  </programme>
-  <programme start="20230728192800 +0100" stop="20230728201900 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Espaço 1999</title>
-  </programme>
-  <programme start="20230728201900 +0100" stop="20230728220100 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Lego Mastars Australia</title>
-  </programme>
-  <programme start="20230728220100 +0100" stop="20230728222500 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Pawn Stars South Africa</title>
-  </programme>
-  <programme start="20230728222500 +0100" stop="20230728232500 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Irritações</title>
-  </programme>
-  <programme start="20230728232500 +0100" stop="20230729001700 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Espaço 1999</title>
-  </programme>
   <programme start="20230729001700 +0100" stop="20230729011500 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Sex Life</title>
   </programme>
@@ -265,136 +28,133 @@
   <programme start="20230729041800 +0100" stop="20230729052000 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Irritações</title>
   </programme>
-  <programme start="20230729052000 +0100" stop="20230729060000 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230729052000 +0100" stop="20230729060700 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Curto Circuito</title>
   </programme>
-  <programme start="20230729060000 +0100" stop="20230729061500 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230729060700 +0100" stop="20230729062000 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Go's-TV Report</title>
   </programme>
-  <programme start="20230729061500 +0100" stop="20230729063000 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230729062000 +0100" stop="20230729062900 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Cinetendinha</title>
   </programme>
-  <programme start="20230729063000 +0100" stop="20230729071500 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230729062900 +0100" stop="20230729071800 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Curto Circuito</title>
   </programme>
-  <programme start="20230729071500 +0100" stop="20230729073000 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230729071800 +0100" stop="20230729072900 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Boa Cama Boa Mesa</title>
   </programme>
-  <programme start="20230729073000 +0100" stop="20230729074500 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230729072900 +0100" stop="20230729074400 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Volante</title>
   </programme>
-  <programme start="20230729074500 +0100" stop="20230729080000 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230729074400 +0100" stop="20230729075400 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Exame Informática</title>
   </programme>
-  <programme start="20230729080000 +0100" stop="20230729081500 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230729075400 +0100" stop="20230729075700 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Sem Filmes</title>
   </programme>
-  <programme start="20230729081500 +0100" stop="20230729083000 +0100" channel="PT: SIC RADICAL">
-    <title lang="pt">Go's-TV Report</title>
-  </programme>
-  <programme start="20230729083000 +0100" stop="20230729084500 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230729075700 +0100" stop="20230729080600 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Cinetendinha</title>
   </programme>
-  <programme start="20230729084500 +0100" stop="20230729091500 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230729080600 +0100" stop="20230729083400 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Advnce Show</title>
   </programme>
-  <programme start="20230729091500 +0100" stop="20230729100000 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230729083400 +0100" stop="20230729093100 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Irritações</title>
   </programme>
-  <programme start="20230729100000 +0100" stop="20230729101500 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230729093100 +0100" stop="20230729094100 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Boa Cama Boa Mesa</title>
   </programme>
-  <programme start="20230729101500 +0100" stop="20230729104500 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230729094100 +0100" stop="20230729101200 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Retro_Gamers</title>
   </programme>
-  <programme start="20230729104500 +0100" stop="20230729113000 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230729101200 +0100" stop="20230729111200 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Irritações</title>
   </programme>
-  <programme start="20230729113000 +0100" stop="20230729121500 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230729111200 +0100" stop="20230729115700 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Curto Cricuito Street Edition</title>
   </programme>
-  <programme start="20230729121500 +0100" stop="20230729124500 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230729115700 +0100" stop="20230729124400 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Team Ninja Warrior</title>
   </programme>
-  <programme start="20230729124500 +0100" stop="20230729133000 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230729124400 +0100" stop="20230729132700 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Team Ninja Warrior</title>
   </programme>
-  <programme start="20230729133000 +0100" stop="20230729134500 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230729132700 +0100" stop="20230729133900 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Go's-TV Report</title>
   </programme>
-  <programme start="20230729134500 +0100" stop="20230729143000 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230729133900 +0100" stop="20230729142700 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Curto Circuito Home Edition</title>
   </programme>
-  <programme start="20230729143000 +0100" stop="20230729144500 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230729142700 +0100" stop="20230729143700 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Isso É Matemática</title>
   </programme>
-  <programme start="20230729144500 +0100" stop="20230729150000 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230729143700 +0100" stop="20230729144600 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Cinetendinha</title>
   </programme>
-  <programme start="20230729150000 +0100" stop="20230729151500 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230729144600 +0100" stop="20230729150100 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Volante</title>
   </programme>
-  <programme start="20230729151500 +0100" stop="20230729163000 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230729150100 +0100" stop="20230729160100 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Lego Mastars Australia</title>
   </programme>
-  <programme start="20230729163000 +0100" stop="20230729170000 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230729160100 +0100" stop="20230729164300 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Team Ninja Warrior</title>
   </programme>
-  <programme start="20230729170000 +0100" stop="20230729174500 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230729164300 +0100" stop="20230729172600 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Team Ninja Warrior</title>
   </programme>
-  <programme start="20230729174500 +0100" stop="20230729183000 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230729172600 +0100" stop="20230729181000 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Team Ninja Warrior</title>
   </programme>
-  <programme start="20230729183000 +0100" stop="20230729191500 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230729181000 +0100" stop="20230729185500 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Team Ninja Warrior</title>
   </programme>
-  <programme start="20230729191500 +0100" stop="20230729200000 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230729185500 +0100" stop="20230729195200 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">SAS: Who Dares Wins Austrália</title>
   </programme>
-  <programme start="20230729200000 +0100" stop="20230729204500 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230729195200 +0100" stop="20230729203400 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Tonight Show With Jimmy Fallon</title>
   </programme>
-  <programme start="20230729204500 +0100" stop="20230729210000 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230729203400 +0100" stop="20230729205000 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Volante</title>
   </programme>
-  <programme start="20230729210000 +0100" stop="20230729220000 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230729205000 +0100" stop="20230729214800 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Irritações</title>
   </programme>
-  <programme start="20230729220000 +0100" stop="20230729230000 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230729214800 +0100" stop="20230729223900 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Espaço 1999</title>
   </programme>
-  <programme start="20230729230000 +0100" stop="20230729234500 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230729223900 +0100" stop="20230729233400 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Sex Life</title>
   </programme>
-  <programme start="20230729234500 +0100" stop="20230730000800 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230729233400 +0100" stop="20230729235500 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Pawn Stars South Africa</title>
   </programme>
-  <programme start="20230730000800 +0100" stop="20230730003000 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230729235500 +0100" stop="20230730001900 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Pawn Stars South Africa</title>
   </programme>
-  <programme start="20230730003000 +0100" stop="20230730011500 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230730001900 +0100" stop="20230730010300 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Naked Attraction (Germany)</title>
   </programme>
-  <programme start="20230730011500 +0100" stop="20230730020000 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230730010300 +0100" stop="20230730014800 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Naked Attraction (Germany)</title>
   </programme>
-  <programme start="20230730020000 +0100" stop="20230730024500 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230730014800 +0100" stop="20230730024200 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Irritações</title>
   </programme>
-  <programme start="20230730024500 +0100" stop="20230730040000 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230730024200 +0100" stop="20230730041100 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Levanta-te E Ri 2019</title>
   </programme>
-  <programme start="20230730040000 +0100" stop="20230730044500 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230730041100 +0100" stop="20230730050800 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Irritações</title>
   </programme>
-  <programme start="20230730044500 +0100" stop="20230730050000 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230730050800 +0100" stop="20230730051800 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Exame Informática</title>
   </programme>
-  <programme start="20230730050000 +0100" stop="20230730051500 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230730051800 +0100" stop="20230730052800 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Cinetendinha</title>
   </programme>
-  <programme start="20230730051500 +0100" stop="20230730060000 +0100" channel="PT: SIC RADICAL">
+  <programme start="20230730052800 +0100" stop="20230730060000 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Curto Circuito Home Edition</title>
   </programme>
   <programme start="20230730060000 +0100" stop="20230730061500 +0100" channel="PT: SIC RADICAL">
@@ -853,209 +613,248 @@
   <programme start="20230802231500 +0100" stop="20230803000000 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">SAS: Who Dares Wins Austrália</title>
   </programme>
-  <programme start="20230727002000 +0100" stop="20230727010400 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Survivor Austrália</title>
+  <programme start="20230803000000 +0100" stop="20230803003000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Naked Attraction (Finland)</title>
   </programme>
-  <programme start="20230727010400 +0100" stop="20230727014900 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">The White Slave</title>
+  <programme start="20230803003000 +0100" stop="20230803011500 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Naked Attraction (Finland)</title>
   </programme>
-  <programme start="20230727014900 +0100" stop="20230727023400 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">The White Slave</title>
+  <programme start="20230803011500 +0100" stop="20230803013800 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Pawn Stars South Africa</title>
   </programme>
-  <programme start="20230727023400 +0100" stop="20230727030900 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">What's Up? TV</title>
+  <programme start="20230803013800 +0100" stop="20230803020000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Pawn Stars South Africa</title>
   </programme>
-  <programme start="20230727030900 +0100" stop="20230727034500 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">What's Up? TV</title>
+  <programme start="20230803020000 +0100" stop="20230803024500 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Team Ninja Warrior</title>
   </programme>
-  <programme start="20230727034500 +0100" stop="20230727042300 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Survivor Austrália</title>
+  <programme start="20230803024500 +0100" stop="20230803033000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Irritações</title>
   </programme>
-  <programme start="20230727042300 +0100" stop="20230727050600 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Survivor Austrália</title>
+  <programme start="20230803033000 +0100" stop="20230803040000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Caixa Negra</title>
   </programme>
-  <programme start="20230727050600 +0100" stop="20230727051500 +0100" channel="PT: SIC MULHER">
+  <programme start="20230803040000 +0100" stop="20230803041500 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Go's-TV Report</title>
+  </programme>
+  <programme start="20230803041500 +0100" stop="20230803043000 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Cinetendinha</title>
   </programme>
-  <programme start="20230727051500 +0100" stop="20230727054400 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Médico Da Casa Com Dr. Almeida Nunes</title>
+  <programme start="20230803043000 +0100" stop="20230803044500 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Advnce Show</title>
   </programme>
-  <programme start="20230727054400 +0100" stop="20230727063900 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Survivor Austrália</title>
+  <programme start="20230803044500 +0100" stop="20230803053000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Irritações</title>
   </programme>
-  <programme start="20230727063900 +0100" stop="20230727065500 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Viral Rubrica</title>
+  <programme start="20230803053000 +0100" stop="20230803060000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Curto Circuito</title>
   </programme>
-  <programme start="20230727065500 +0100" stop="20230727073600 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Dr. Phil</title>
+  <programme start="20230803060000 +0100" stop="20230803064500 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Curto Circuito</title>
   </programme>
-  <programme start="20230727073600 +0100" stop="20230727081800 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Dr. Phil</title>
+  <programme start="20230803064500 +0100" stop="20230803070000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Boruto</title>
   </programme>
-  <programme start="20230727081800 +0100" stop="20230727090000 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">My Dream Home</title>
+  <programme start="20230803070000 +0100" stop="20230803071500 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Boruto</title>
   </programme>
-  <programme start="20230727090000 +0100" stop="20230727094500 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">My Dream Home</title>
+  <programme start="20230803071500 +0100" stop="20230803080000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Late Late Show With James Corden</title>
   </programme>
-  <programme start="20230727094500 +0100" stop="20230727102500 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Masterchef Celebridades Argentina</title>
+  <programme start="20230803080000 +0100" stop="20230803081500 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Go's-TV Report</title>
   </programme>
-  <programme start="20230727102500 +0100" stop="20230727110000 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Masterchef Celebridades Argentina</title>
+  <programme start="20230803081500 +0100" stop="20230803090000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Irritações</title>
   </programme>
-  <programme start="20230727110000 +0100" stop="20230727112900 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Masterchef Celebridades Argentina</title>
+  <programme start="20230803090000 +0100" stop="20230803094500 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Curto Circuito</title>
   </programme>
-  <programme start="20230727112900 +0100" stop="20230727114000 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Espaços E Casas</title>
+  <programme start="20230803094500 +0100" stop="20230803101500 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">SAS: Who Dares Wins Austrália</title>
   </programme>
-  <programme start="20230727114000 +0100" stop="20230727121500 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Irresistível</title>
+  <programme start="20230803101500 +0100" stop="20230803104500 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">SAS: Who Dares Wins Austrália</title>
   </programme>
-  <programme start="20230727121500 +0100" stop="20230727131600 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Joias TV - Televendas</title>
+  <programme start="20230803104500 +0100" stop="20230803114500 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Love Island U.K.</title>
   </programme>
-  <programme start="20230727131600 +0100" stop="20230727140000 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">La Ley Secreta</title>
+  <programme start="20230803114500 +0100" stop="20230803123000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Love Island U.K.</title>
   </programme>
-  <programme start="20230727140000 +0100" stop="20230727144800 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">La Ley Secreta</title>
+  <programme start="20230803123000 +0100" stop="20230803131500 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Team Ninja Warrior</title>
   </programme>
-  <programme start="20230727144800 +0100" stop="20230727160200 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Madres</title>
+  <programme start="20230803131500 +0100" stop="20230803140000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Team Ninja Warrior</title>
   </programme>
-  <programme start="20230727160200 +0100" stop="20230727164800 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">The Light Of Hope</title>
+  <programme start="20230803140000 +0100" stop="20230803143000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Pawn Stars South Africa</title>
   </programme>
-  <programme start="20230727164800 +0100" stop="20230727181200 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Gulperi</title>
+  <programme start="20230803143000 +0100" stop="20230803150000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Pawn Stars South Africa</title>
   </programme>
-  <programme start="20230727181200 +0100" stop="20230727185400 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">My Dream Home</title>
+  <programme start="20230803150000 +0100" stop="20230803154500 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Team Ninja Warrior</title>
   </programme>
-  <programme start="20230727185400 +0100" stop="20230727194100 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">My Dream Home</title>
+  <programme start="20230803154500 +0100" stop="20230803163000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Tonight Show With Jimmy Fallon</title>
   </programme>
-  <programme start="20230727194100 +0100" stop="20230727202700 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Mother</title>
+  <programme start="20230803163000 +0100" stop="20230803173000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Love Island U.K.</title>
   </programme>
-  <programme start="20230727202700 +0100" stop="20230727211900 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Mother</title>
+  <programme start="20230803173000 +0100" stop="20230803181500 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Love Island U.K.</title>
   </programme>
-  <programme start="20230727211900 +0100" stop="20230727220600 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">The Light Of Hope</title>
+  <programme start="20230803181500 +0100" stop="20230803190000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Love Island U.K.</title>
   </programme>
-  <programme start="20230727220600 +0100" stop="20230727225400 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">The Light Of Hope</title>
+  <programme start="20230803190000 +0100" stop="20230803194500 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">SAS: Who Dares Wins Austrália</title>
   </programme>
-  <programme start="20230727225400 +0100" stop="20230727231200 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Married At First Sight Austrália</title>
+  <programme start="20230803194500 +0100" stop="20230803203000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">SAS: Who Dares Wins Austrália</title>
   </programme>
-  <programme start="20230727231200 +0100" stop="20230727234000 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Married At First Sight Austrália</title>
+  <programme start="20230803203000 +0100" stop="20230803210000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Team Ninja Warrior</title>
   </programme>
-  <programme start="20230727234000 +0100" stop="20230728002300 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Survivor Austrália</title>
+  <programme start="20230803210000 +0100" stop="20230803214500 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Team Ninja Warrior</title>
   </programme>
-  <programme start="20230728002300 +0100" stop="20230728011100 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Survivor Austrália</title>
+  <programme start="20230803214500 +0100" stop="20230803220000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Pawn Stars South Africa</title>
   </programme>
-  <programme start="20230728011100 +0100" stop="20230728015600 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">The White Slave</title>
+  <programme start="20230803220000 +0100" stop="20230803224500 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Pawn Stars U.K.</title>
   </programme>
-  <programme start="20230728015600 +0100" stop="20230728024200 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">The White Slave</title>
+  <programme start="20230803224500 +0100" stop="20230803231500 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">SAS: Who Dares Wins Austrália</title>
   </programme>
-  <programme start="20230728024200 +0100" stop="20230728031800 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">What's Up? TV</title>
+  <programme start="20230803231500 +0100" stop="20230804000000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">SAS: Who Dares Wins Austrália</title>
   </programme>
-  <programme start="20230728031800 +0100" stop="20230728040300 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">What's Up? TV</title>
+  <programme start="20230804000000 +0100" stop="20230804003000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Naked Attraction (Finland)</title>
   </programme>
-  <programme start="20230728040300 +0100" stop="20230728044400 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Survivor Austrália</title>
+  <programme start="20230804003000 +0100" stop="20230804011500 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Naked Attraction (Finland)</title>
   </programme>
-  <programme start="20230728044400 +0100" stop="20230728052600 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Survivor Austrália</title>
+  <programme start="20230804011500 +0100" stop="20230804013000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Pawn Stars South Africa</title>
   </programme>
-  <programme start="20230728052600 +0100" stop="20230728053600 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Espaços E Casas</title>
+  <programme start="20230804013000 +0100" stop="20230804020000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Pawn Stars U.K.</title>
   </programme>
-  <programme start="20230728053600 +0100" stop="20230728060900 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Médico Da Casa Com Dr. Almeida Nunes</title>
+  <programme start="20230804020000 +0100" stop="20230804024500 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Espaço 1999</title>
   </programme>
-  <programme start="20230728060900 +0100" stop="20230728061800 +0100" channel="PT: SIC MULHER">
+  <programme start="20230804024500 +0100" stop="20230804034500 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Irritações</title>
+  </programme>
+  <programme start="20230804034500 +0100" stop="20230804043000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Curto Circuito</title>
+  </programme>
+  <programme start="20230804043000 +0100" stop="20230804044500 +0100" channel="PT: SIC RADICAL">
     <title lang="pt">Cinetendinha</title>
   </programme>
-  <programme start="20230728061800 +0100" stop="20230728070100 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Survivor Austrália</title>
+  <programme start="20230804044500 +0100" stop="20230804050000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Boa Cama Boa Mesa</title>
   </programme>
-  <programme start="20230728070100 +0100" stop="20230728073700 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Irresistível</title>
+  <programme start="20230804050000 +0100" stop="20230804051500 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Volante</title>
   </programme>
-  <programme start="20230728073700 +0100" stop="20230728082000 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Dr. Phil</title>
+  <programme start="20230804051500 +0100" stop="20230804060000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Curto Circuito</title>
   </programme>
-  <programme start="20230728082000 +0100" stop="20230728090200 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">My Dream Home</title>
+  <programme start="20230804060000 +0100" stop="20230804064500 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Curto Circuito</title>
   </programme>
-  <programme start="20230728090200 +0100" stop="20230728094800 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">My Dream Home</title>
+  <programme start="20230804064500 +0100" stop="20230804070000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Boruto</title>
   </programme>
-  <programme start="20230728094800 +0100" stop="20230728102400 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Masterchef Celebridades Argentina</title>
+  <programme start="20230804070000 +0100" stop="20230804071500 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Boruto</title>
   </programme>
-  <programme start="20230728102400 +0100" stop="20230728105700 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Masterchef Celebridades Argentina</title>
+  <programme start="20230804071500 +0100" stop="20230804080000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Late Late Show With James Corden</title>
   </programme>
-  <programme start="20230728105700 +0100" stop="20230728113100 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Masterchef Celebridades Argentina</title>
+  <programme start="20230804080000 +0100" stop="20230804081500 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Volante</title>
   </programme>
-  <programme start="20230728113100 +0100" stop="20230728121500 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">What's Up? TV</title>
+  <programme start="20230804081500 +0100" stop="20230804090000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Irritações</title>
   </programme>
-  <programme start="20230728121500 +0100" stop="20230728131600 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Joias TV - Televendas</title>
+  <programme start="20230804090000 +0100" stop="20230804094500 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Curto Circuito</title>
   </programme>
-  <programme start="20230728131600 +0100" stop="20230728140100 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">La Ley Secreta</title>
+  <programme start="20230804094500 +0100" stop="20230804100000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Volante</title>
   </programme>
-  <programme start="20230728140100 +0100" stop="20230728144800 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">La Ley Secreta</title>
+  <programme start="20230804100000 +0100" stop="20230804101500 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Isso É Matemática</title>
   </programme>
-  <programme start="20230728144800 +0100" stop="20230728160900 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Madres</title>
+  <programme start="20230804101500 +0100" stop="20230804104500 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">SAS: Who Dares Wins Austrália</title>
   </programme>
-  <programme start="20230728160900 +0100" stop="20230728165000 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">The Light Of Hope</title>
+  <programme start="20230804104500 +0100" stop="20230804114500 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Love Island U.K.</title>
   </programme>
-  <programme start="20230728165000 +0100" stop="20230728181400 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Gulperi</title>
+  <programme start="20230804114500 +0100" stop="20230804123000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Love Island U.K.</title>
   </programme>
-  <programme start="20230728181400 +0100" stop="20230728185700 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">My Dream Home</title>
+  <programme start="20230804123000 +0100" stop="20230804131500 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Team Ninja Warrior</title>
   </programme>
-  <programme start="20230728185700 +0100" stop="20230728194600 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Property Brothers Forever Home</title>
+  <programme start="20230804131500 +0100" stop="20230804140000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Team Ninja Warrior</title>
   </programme>
-  <programme start="20230728194600 +0100" stop="20230728202900 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Mother</title>
+  <programme start="20230804140000 +0100" stop="20230804141500 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Pawn Stars South Africa</title>
   </programme>
-  <programme start="20230728202900 +0100" stop="20230728211100 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Mother</title>
+  <programme start="20230804141500 +0100" stop="20230804150000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Pawn Stars U.K.</title>
   </programme>
-  <programme start="20230728211100 +0100" stop="20230728220000 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">The Light Of Hope</title>
+  <programme start="20230804150000 +0100" stop="20230804161500 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Lego Mastars Australia</title>
   </programme>
-  <programme start="20230728220000 +0100" stop="20230728224600 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">The Light Of Hope</title>
+  <programme start="20230804161500 +0100" stop="20230804163000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Exame Informática</title>
   </programme>
-  <programme start="20230728224600 +0100" stop="20230728231500 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Married At First Sight Austrália</title>
+  <programme start="20230804163000 +0100" stop="20230804174500 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Made You Look As Aparências Iludem</title>
   </programme>
-  <programme start="20230728231500 +0100" stop="20230729005400 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Click</title>
+  <programme start="20230804174500 +0100" stop="20230804183000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Love Island U.K.</title>
+  </programme>
+  <programme start="20230804183000 +0100" stop="20230804190000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Love Island U.K.</title>
+  </programme>
+  <programme start="20230804190000 +0100" stop="20230804191500 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Boa Cama Boa Mesa</title>
+  </programme>
+  <programme start="20230804191500 +0100" stop="20230804193000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Volante</title>
+  </programme>
+  <programme start="20230804193000 +0100" stop="20230804194500 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Cinetendinha</title>
+  </programme>
+  <programme start="20230804194500 +0100" stop="20230804200000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Isso É Matemática</title>
+  </programme>
+  <programme start="20230804200000 +0100" stop="20230804204500 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Espaço 1999</title>
+  </programme>
+  <programme start="20230804204500 +0100" stop="20230804220000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Lego Mastars Australia</title>
+  </programme>
+  <programme start="20230804220000 +0100" stop="20230804223000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Pawn Stars U.K.</title>
+  </programme>
+  <programme start="20230804223000 +0100" stop="20230804233000 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Lie With Me</title>
+  </programme>
+  <programme start="20230804233000 +0100" stop="20230805001500 +0100" channel="PT: SIC RADICAL">
+    <title lang="pt">Espaço 1999</title>
   </programme>
   <programme start="20230729005400 +0100" stop="20230729021900 +0100" channel="PT: SIC MULHER">
     <title lang="pt">Identity</title>
@@ -1072,100 +871,100 @@
   <programme start="20230729042700 +0100" stop="20230729050500 +0100" channel="PT: SIC MULHER">
     <title lang="pt">Farmer Wants A Wife Austrália</title>
   </programme>
-  <programme start="20230729050500 +0100" stop="20230729060000 +0100" channel="PT: SIC MULHER">
+  <programme start="20230729050500 +0100" stop="20230729054300 +0100" channel="PT: SIC MULHER">
     <title lang="pt">Farmer Wants A Wife Austrália</title>
   </programme>
-  <programme start="20230729060000 +0100" stop="20230729063000 +0100" channel="PT: SIC MULHER">
+  <programme start="20230729054300 +0100" stop="20230729062600 +0100" channel="PT: SIC MULHER">
     <title lang="pt">Survivor Austrália</title>
   </programme>
-  <programme start="20230729063000 +0100" stop="20230729070000 +0100" channel="PT: SIC MULHER">
+  <programme start="20230729062600 +0100" stop="20230729070700 +0100" channel="PT: SIC MULHER">
     <title lang="pt">Survivor Austrália</title>
   </programme>
-  <programme start="20230729070000 +0100" stop="20230729073000 +0100" channel="PT: SIC MULHER">
+  <programme start="20230729070700 +0100" stop="20230729075500 +0100" channel="PT: SIC MULHER">
     <title lang="pt">Survivor Austrália</title>
   </programme>
-  <programme start="20230729073000 +0100" stop="20230729074500 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Espaços E Casas</title>
-  </programme>
-  <programme start="20230729074500 +0100" stop="20230729081500 +0100" channel="PT: SIC MULHER">
+  <programme start="20230729075500 +0100" stop="20230729081100 +0100" channel="PT: SIC MULHER">
     <title lang="pt">Viral Rubrica</title>
   </programme>
-  <programme start="20230729081500 +0100" stop="20230729090000 +0100" channel="PT: SIC MULHER">
+  <programme start="20230729081100 +0100" stop="20230729085100 +0100" channel="PT: SIC MULHER">
     <title lang="pt">What's Up? TV</title>
   </programme>
-  <programme start="20230729090000 +0100" stop="20230729092200 +0100" channel="PT: SIC MULHER">
+  <programme start="20230729085100 +0100" stop="20230729092900 +0100" channel="PT: SIC MULHER">
     <title lang="pt">Masterchef Celebridades Argentina</title>
   </programme>
-  <programme start="20230729092200 +0100" stop="20230729094500 +0100" channel="PT: SIC MULHER">
+  <programme start="20230729092900 +0100" stop="20230729100500 +0100" channel="PT: SIC MULHER">
     <title lang="pt">Masterchef Celebridades Argentina</title>
   </programme>
-  <programme start="20230729094500 +0100" stop="20230729103000 +0100" channel="PT: SIC MULHER">
+  <programme start="20230729100500 +0100" stop="20230729104600 +0100" channel="PT: SIC MULHER">
     <title lang="pt">Masterchef Celebridades Argentina</title>
   </programme>
-  <programme start="20230729103000 +0100" stop="20230729111500 +0100" channel="PT: SIC MULHER">
+  <programme start="20230729104600 +0100" stop="20230729113200 +0100" channel="PT: SIC MULHER">
     <title lang="pt">My Dream Home</title>
   </programme>
-  <programme start="20230729111500 +0100" stop="20230729114500 +0100" channel="PT: SIC MULHER">
+  <programme start="20230729113200 +0100" stop="20230729115200 +0100" channel="PT: SIC MULHER">
     <title lang="pt">Living Smaller</title>
   </programme>
-  <programme start="20230729114500 +0100" stop="20230729121500 +0100" channel="PT: SIC MULHER">
+  <programme start="20230729115200 +0100" stop="20230729121500 +0100" channel="PT: SIC MULHER">
     <title lang="pt">Living Smaller</title>
   </programme>
-  <programme start="20230729121500 +0100" stop="20230729131500 +0100" channel="PT: SIC MULHER">
+  <programme start="20230729121500 +0100" stop="20230729140000 +0100" channel="PT: SIC MULHER">
     <title lang="pt">Joias TV - Televendas</title>
   </programme>
-  <programme start="20230729131500 +0100" stop="20230729140000 +0100" channel="PT: SIC MULHER">
+  <programme start="20230729140000 +0100" stop="20230729144700 +0100" channel="PT: SIC MULHER">
     <title lang="pt">Property Brothers Forever Home</title>
   </programme>
-  <programme start="20230729140000 +0100" stop="20230729144500 +0100" channel="PT: SIC MULHER">
+  <programme start="20230729144700 +0100" stop="20230729153300 +0100" channel="PT: SIC MULHER">
     <title lang="pt">Property Brothers Forever Home</title>
   </programme>
-  <programme start="20230729144500 +0100" stop="20230729164500 +0100" channel="PT: SIC MULHER">
+  <programme start="20230729153300 +0100" stop="20230729170300 +0100" channel="PT: SIC MULHER">
     <title lang="pt">Hanging Up</title>
   </programme>
-  <programme start="20230729164500 +0100" stop="20230729183000 +0100" channel="PT: SIC MULHER">
+  <programme start="20230729170300 +0100" stop="20230729184400 +0100" channel="PT: SIC MULHER">
     <title lang="pt">Click</title>
   </programme>
-  <programme start="20230729183000 +0100" stop="20230729191500 +0100" channel="PT: SIC MULHER">
+  <programme start="20230729184400 +0100" stop="20230729191500 +0100" channel="PT: SIC MULHER">
     <title lang="pt">Married At First Sight Austrália</title>
   </programme>
-  <programme start="20230729191500 +0100" stop="20230729200000 +0100" channel="PT: SIC MULHER">
+  <programme start="20230729191500 +0100" stop="20230729192000 +0100" channel="PT: SIC MULHER">
     <title lang="pt">Married At First Sight Austrália</title>
   </programme>
-  <programme start="20230729200000 +0100" stop="20230729204500 +0100" channel="PT: SIC MULHER">
+  <programme start="20230729192000 +0100" stop="20230729195500 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Married At First Sight Austrália</title>
+  </programme>
+  <programme start="20230729195500 +0100" stop="20230729204500 +0100" channel="PT: SIC MULHER">
     <title lang="pt">The Light Of Hope</title>
   </programme>
-  <programme start="20230729204500 +0100" stop="20230729213000 +0100" channel="PT: SIC MULHER">
+  <programme start="20230729204500 +0100" stop="20230729213500 +0100" channel="PT: SIC MULHER">
     <title lang="pt">The Light Of Hope</title>
   </programme>
-  <programme start="20230729213000 +0100" stop="20230729231500 +0100" channel="PT: SIC MULHER">
-    <title lang="pt">Secret Window</title>
-  </programme>
-  <programme start="20230729231500 +0100" stop="20230730004500 +0100" channel="PT: SIC MULHER">
+  <programme start="20230729213500 +0100" stop="20230729232200 +0100" channel="PT: SIC MULHER">
     <title lang="pt">Freedomland</title>
   </programme>
-  <programme start="20230730004500 +0100" stop="20230730010800 +0100" channel="PT: SIC MULHER">
+  <programme start="20230729232200 +0100" stop="20230730005100 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Secret Window</title>
+  </programme>
+  <programme start="20230730005100 +0100" stop="20230730012300 +0100" channel="PT: SIC MULHER">
     <title lang="pt">Toy Boy</title>
   </programme>
-  <programme start="20230730010800 +0100" stop="20230730013000 +0100" channel="PT: SIC MULHER">
+  <programme start="20230730012300 +0100" stop="20230730015900 +0100" channel="PT: SIC MULHER">
     <title lang="pt">Toy Boy</title>
   </programme>
-  <programme start="20230730013000 +0100" stop="20230730021500 +0100" channel="PT: SIC MULHER">
+  <programme start="20230730015900 +0100" stop="20230730024600 +0100" channel="PT: SIC MULHER">
     <title lang="pt">Embarrassing Bodies U.K.</title>
   </programme>
-  <programme start="20230730021500 +0100" stop="20230730030000 +0100" channel="PT: SIC MULHER">
+  <programme start="20230730024600 +0100" stop="20230730032900 +0100" channel="PT: SIC MULHER">
     <title lang="pt">Survivor Austrália</title>
   </programme>
-  <programme start="20230730030000 +0100" stop="20230730034500 +0100" channel="PT: SIC MULHER">
+  <programme start="20230730032900 +0100" stop="20230730041300 +0100" channel="PT: SIC MULHER">
     <title lang="pt">Survivor Austrália</title>
   </programme>
-  <programme start="20230730034500 +0100" stop="20230730043000 +0100" channel="PT: SIC MULHER">
+  <programme start="20230730041300 +0100" stop="20230730045100 +0100" channel="PT: SIC MULHER">
     <title lang="pt">Farmer Wants A Wife Austrália</title>
   </programme>
-  <programme start="20230730043000 +0100" stop="20230730051500 +0100" channel="PT: SIC MULHER">
+  <programme start="20230730045100 +0100" stop="20230730052500 +0100" channel="PT: SIC MULHER">
     <title lang="pt">Farmer Wants A Wife Austrália</title>
   </programme>
-  <programme start="20230730051500 +0100" stop="20230730060000 +0100" channel="PT: SIC MULHER">
+  <programme start="20230730052500 +0100" stop="20230730060000 +0100" channel="PT: SIC MULHER">
     <title lang="pt">Farmer Wants A Wife Austrália</title>
   </programme>
   <programme start="20230730060000 +0100" stop="20230730063000 +0100" channel="PT: SIC MULHER">
@@ -1222,7 +1021,10 @@
   <programme start="20230730181500 +0100" stop="20230730190000 +0100" channel="PT: SIC MULHER">
     <title lang="pt">Married At First Sight Austrália</title>
   </programme>
-  <programme start="20230730190000 +0100" stop="20230730194500 +0100" channel="PT: SIC MULHER">
+  <programme start="20230730190000 +0100" stop="20230730191500 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Married At First Sight Austrália</title>
+  </programme>
+  <programme start="20230730191500 +0100" stop="20230730194500 +0100" channel="PT: SIC MULHER">
     <title lang="pt">Married At First Sight Austrália</title>
   </programme>
   <programme start="20230730194500 +0100" stop="20230730203000 +0100" channel="PT: SIC MULHER">
@@ -1252,7 +1054,10 @@
   <programme start="20230731021500 +0100" stop="20230731030000 +0100" channel="PT: SIC MULHER">
     <title lang="pt">Embarrassing Bodies U.K.</title>
   </programme>
-  <programme start="20230731030000 +0100" stop="20230731034500 +0100" channel="PT: SIC MULHER">
+  <programme start="20230731030000 +0100" stop="20230731031000 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Embarrassing Bodies U.K.</title>
+  </programme>
+  <programme start="20230731031000 +0100" stop="20230731034500 +0100" channel="PT: SIC MULHER">
     <title lang="pt">Embarrassing Bodies U.K.</title>
   </programme>
   <programme start="20230731034500 +0100" stop="20230731043000 +0100" channel="PT: SIC MULHER">
@@ -1261,8 +1066,11 @@
   <programme start="20230731043000 +0100" stop="20230731051500 +0100" channel="PT: SIC MULHER">
     <title lang="pt">Farmer Wants A Wife Austrália</title>
   </programme>
-  <programme start="20230731051500 +0100" stop="20230731060000 +0100" channel="PT: SIC MULHER">
+  <programme start="20230731051500 +0100" stop="20230731054500 +0100" channel="PT: SIC MULHER">
     <title lang="pt">Farmer Wants A Wife Austrália</title>
+  </programme>
+  <programme start="20230731054500 +0100" stop="20230731060000 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Boa Cama, Boa Mesa</title>
   </programme>
   <programme start="20230731060000 +0100" stop="20230731063000 +0100" channel="PT: SIC MULHER">
     <title lang="pt">Médico Da Casa Com Dr. Almeida Nunes</title>
@@ -1524,5 +1332,194 @@
   </programme>
   <programme start="20230802233000 +0100" stop="20230803001500 +0100" channel="PT: SIC MULHER">
     <title lang="pt">Married At First Sight Austrália</title>
+  </programme>
+  <programme start="20230803001500 +0100" stop="20230803010000 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Survivor Austrália</title>
+  </programme>
+  <programme start="20230803010000 +0100" stop="20230803014500 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Survivor Austrália</title>
+  </programme>
+  <programme start="20230803014500 +0100" stop="20230803023000 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">La Ley Secreta</title>
+  </programme>
+  <programme start="20230803023000 +0100" stop="20230803031500 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Farmer Wants A Wife Austrália</title>
+  </programme>
+  <programme start="20230803031500 +0100" stop="20230803040000 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">What's Up? TV</title>
+  </programme>
+  <programme start="20230803040000 +0100" stop="20230803044500 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">What's Up? TV</title>
+  </programme>
+  <programme start="20230803044500 +0100" stop="20230803051500 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Survivor Austrália</title>
+  </programme>
+  <programme start="20230803051500 +0100" stop="20230803060000 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Survivor Austrália</title>
+  </programme>
+  <programme start="20230803060000 +0100" stop="20230803063000 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Médico Da Casa Com Dr. Almeida Nunes</title>
+  </programme>
+  <programme start="20230803063000 +0100" stop="20230803071500 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Survivor Austrália</title>
+  </programme>
+  <programme start="20230803071500 +0100" stop="20230803074500 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">What's Up? TV</title>
+  </programme>
+  <programme start="20230803074500 +0100" stop="20230803081500 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Dr. Phil</title>
+  </programme>
+  <programme start="20230803081500 +0100" stop="20230803090000 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Dr. Phil</title>
+  </programme>
+  <programme start="20230803090000 +0100" stop="20230803094500 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Property Brothers Forever Home</title>
+  </programme>
+  <programme start="20230803094500 +0100" stop="20230803103000 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">My Dream Home</title>
+  </programme>
+  <programme start="20230803103000 +0100" stop="20230803111500 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">É Bom Fazer O Bem</title>
+  </programme>
+  <programme start="20230803111500 +0100" stop="20230803113000 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Espaços E Casas</title>
+  </programme>
+  <programme start="20230803113000 +0100" stop="20230803121500 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Supernanny</title>
+  </programme>
+  <programme start="20230803121500 +0100" stop="20230803131500 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Joias TV - Televendas</title>
+  </programme>
+  <programme start="20230803131500 +0100" stop="20230803140000 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">La Ley Secreta</title>
+  </programme>
+  <programme start="20230803140000 +0100" stop="20230803144500 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">La Ley Secreta</title>
+  </programme>
+  <programme start="20230803144500 +0100" stop="20230803154500 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Madres</title>
+  </programme>
+  <programme start="20230803154500 +0100" stop="20230803163000 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">The Light Of Hope</title>
+  </programme>
+  <programme start="20230803163000 +0100" stop="20230803173000 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Gulperi</title>
+  </programme>
+  <programme start="20230803173000 +0100" stop="20230803181500 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Property Brothers Forever Home</title>
+  </programme>
+  <programme start="20230803181500 +0100" stop="20230803190000 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Property Brothers Forever Home</title>
+  </programme>
+  <programme start="20230803190000 +0100" stop="20230803194500 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Mother</title>
+  </programme>
+  <programme start="20230803194500 +0100" stop="20230803204500 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Mother</title>
+  </programme>
+  <programme start="20230803204500 +0100" stop="20230803214500 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">The Light Of Hope</title>
+  </programme>
+  <programme start="20230803214500 +0100" stop="20230803224500 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">The Light Of Hope</title>
+  </programme>
+  <programme start="20230803224500 +0100" stop="20230803233000 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Married At First Sight Austrália</title>
+  </programme>
+  <programme start="20230803233000 +0100" stop="20230804001500 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Married At First Sight Austrália</title>
+  </programme>
+  <programme start="20230804001500 +0100" stop="20230804010000 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Survivor Austrália</title>
+  </programme>
+  <programme start="20230804010000 +0100" stop="20230804014500 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Survivor Austrália</title>
+  </programme>
+  <programme start="20230804014500 +0100" stop="20230804023000 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">La Ley Secreta</title>
+  </programme>
+  <programme start="20230804023000 +0100" stop="20230804031500 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Farmer Wants A Wife Austrália</title>
+  </programme>
+  <programme start="20230804031500 +0100" stop="20230804040000 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">What's Up? TV</title>
+  </programme>
+  <programme start="20230804040000 +0100" stop="20230804044500 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">What's Up? TV</title>
+  </programme>
+  <programme start="20230804044500 +0100" stop="20230804051500 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Survivor Austrália</title>
+  </programme>
+  <programme start="20230804051500 +0100" stop="20230804060000 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Survivor Austrália</title>
+  </programme>
+  <programme start="20230804060000 +0100" stop="20230804063000 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Médico Da Casa Com Dr. Almeida Nunes</title>
+  </programme>
+  <programme start="20230804063000 +0100" stop="20230804071500 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Survivor Austrália</title>
+  </programme>
+  <programme start="20230804071500 +0100" stop="20230804080000 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">What's Up? TV</title>
+  </programme>
+  <programme start="20230804080000 +0100" stop="20230804083000 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Dr. Phil</title>
+  </programme>
+  <programme start="20230804083000 +0100" stop="20230804091500 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Dr. Phil</title>
+  </programme>
+  <programme start="20230804091500 +0100" stop="20230804100000 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Property Brothers Forever Home</title>
+  </programme>
+  <programme start="20230804100000 +0100" stop="20230804104500 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">My Dream Home</title>
+  </programme>
+  <programme start="20230804104500 +0100" stop="20230804113000 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">É Bom Fazer O Bem</title>
+  </programme>
+  <programme start="20230804113000 +0100" stop="20230804121500 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Supernanny</title>
+  </programme>
+  <programme start="20230804121500 +0100" stop="20230804131500 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Joias TV - Televendas</title>
+  </programme>
+  <programme start="20230804131500 +0100" stop="20230804140000 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">La Ley Secreta</title>
+  </programme>
+  <programme start="20230804140000 +0100" stop="20230804144500 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">La Ley Secreta</title>
+  </programme>
+  <programme start="20230804144500 +0100" stop="20230804154500 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Madres</title>
+  </programme>
+  <programme start="20230804154500 +0100" stop="20230804163000 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">The Light Of Hope</title>
+  </programme>
+  <programme start="20230804163000 +0100" stop="20230804173000 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Gulperi</title>
+  </programme>
+  <programme start="20230804173000 +0100" stop="20230804181500 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Property Brothers Forever Home</title>
+  </programme>
+  <programme start="20230804181500 +0100" stop="20230804190000 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Property Brothers Forever Home</title>
+  </programme>
+  <programme start="20230804190000 +0100" stop="20230804194500 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Mother</title>
+  </programme>
+  <programme start="20230804194500 +0100" stop="20230804204500 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Mother</title>
+  </programme>
+  <programme start="20230804204500 +0100" stop="20230804214500 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">The Light Of Hope</title>
+  </programme>
+  <programme start="20230804214500 +0100" stop="20230804224500 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">The Light Of Hope</title>
+  </programme>
+  <programme start="20230804224500 +0100" stop="20230804233000 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Married At First Sight Austrália</title>
+  </programme>
+  <programme start="20230804233000 +0100" stop="20230805010000 +0100" channel="PT: SIC MULHER">
+    <title lang="pt">Catch And Release</title>
   </programme>
 </tv>
